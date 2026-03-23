@@ -4,7 +4,7 @@ Olá, meu nome é Mark Vinícius Alves e eu atuo com Product Ownner em Minas
 
 Minha experiência inclui a construção de relatórios gerenciais e a análise de métricas como NPS, sinais de feedback e indicadores de uso da plataforma, identificando padrões e oportunidades para melhorar adoção e eficiência operacional. Trabalho ponta a ponta com dados: coletando, organizando e analisando datasets, definindo indicadores e traduzindo resultados em recomendações claras.
 
-Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Preto (UFOP) e possuo formação técnica em Automação Industrial (SENAI), o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas.
+
 
 ---
 
