@@ -1,9 +1,8 @@
 # Sobre mim
 
-Olá, meu nome é Mark Vinícius Alves com foco na área de Dados com foco em Data Analytics e Business Intelligence. Tenho experiência na coleta, tratamento e análise de dados, construção de dashboards e acompanhamento de KPIs, gerando insights para apoio à tomada de decisão.
+Olá, meu nome é Mark Vinícius Alves, com foco na área de Dados, Data Analytics, Business Intelligence, Automações e Inteligência Artificial. Tenho experiência na coleta, tratamento e análise de dados, construção de dashboards, automação de processos e acompanhamento de KPIs, gerando insights para apoio à tomada de decisão.
 
-Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e modelagem dos dados até a visualização e apresentação de resultados. Tenho interesse em projetos de análise exploratória, métricas de negócio, automação de relatórios e desenvolvimento de dashboards.
-
+Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e modelagem dos dados até a visualização e apresentação dos resultados. Também desenvolvo automações e soluções baseadas em IA para otimizar processos, aumentar a produtividade e apoiar operações orientadas por dados.
 
 
 ---
@@ -15,6 +14,7 @@ Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e mode
 - SQL e Bancos de Dados: Extração de dados, joins, CTEs, agregações e modelagem
 - Python para Dados: Pandas, Numpy, automação de relatórios e análise de dados
 - Excel para Análise: Tabelas dinâmicas, dashboards, fórmulas avançadas e Power Query
+- Automações e IA: Desenvolvimento de automações, agentes de IA e otimização de fluxos de trabalho
 
 
 
@@ -26,6 +26,7 @@ Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e mode
 - Visualização: Power BI, Excel
 - Bibliotecas Python: Pandas, Numpy, Matplotlib
 - Banco de Dados: MySQL / PostgreSQL
+- Automações e IA: Agentes de IA, Engenharia de Prompt, Integrações e Automação de Processos
 - Outros: Power Query, DAX
 
 
