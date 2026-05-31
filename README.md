@@ -34,9 +34,9 @@ Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e mode
 ---
 
 ## Projetos em destaque
-- Dashboard em Power BI – [link do repo]
 - Projetos em SQL – [link do repo]
+- Dashboard em Power BI – [link do repo]
 - Projetos em Python – [link do repo]
-- Projetos em Excel – [Ver repositório](https://github.com/Markalvs/excel-projects)
 - Projetos de Prompt Engineering – [Ver repositório](https://github.com/Markalvs/prompt-engineering)
+- Projetos em Excel – [Ver repositório](https://github.com/Markalvs/excel-projects)
 
