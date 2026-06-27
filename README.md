@@ -1,42 +1,36 @@
-# Sobre mim
+# Olá, seja bem-vindo ao meu GitHub 👋
 
-Olá, meu nome é Mark Vinícius Alves, com foco na área de Dados, Data Analytics, Business Intelligence, Automações e Inteligência Artificial. Tenho experiência na coleta, tratamento e análise de dados, construção de dashboards, automação de processos e acompanhamento de KPIs, gerando insights para apoio à tomada de decisão.
+Sou **Mark Vinícius Alves**, profissional com foco em **Dados, Business Intelligence, Automação e Inteligência Artificial**.
 
-Trabalho com SQL, Python, Power BI e Excel, realizando desde a extração e modelagem dos dados até a visualização e apresentação dos resultados. Também desenvolvo automações e soluções baseadas em IA para otimizar processos, aumentar a produtividade e apoiar operações orientadas por dados.
-
-
----
-
-## Áreas de especialidade
-
-- Análise de Dados: Limpeza, tratamento, análise exploratória e geração de insights
-- Business Intelligence: Construção de dashboards, KPIs e métricas de negócio
-- SQL e Bancos de Dados: Extração de dados, joins, CTEs, agregações e modelagem
-- Python para Dados: Pandas, Numpy, automação de relatórios e análise de dados
-- Excel para Análise: Tabelas dinâmicas, dashboards, fórmulas avançadas e Power Query
-- Automações e IA: Desenvolvimento de automações, agentes de IA e otimização de fluxos de trabalho
-
-
+Tenho experiência em coleta, tratamento e análise de dados, desenvolvimento de dashboards, automação de processos e acompanhamento de indicadores, transformando dados em informações estratégicas para tomada de decisão.
 
 ---
 
-## Tech Stack
 
-- Linguagens: Python, SQL
-- Visualização: Power BI, Excel
-- Bibliotecas Python: Pandas, Numpy, Matplotlib
-- Banco de Dados: MySQL / PostgreSQL
-- Automações e IA: Agentes de IA, Engenharia de Prompt, Integrações e Automação de Processos
-- Outros: Power Query, DAX
+## Tecnologias e Ferramentas
 
+<p>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+
+</p>
 
 ---
-
-## Projetos em destaque
-- Projetos em SQL – [link do repo]
-- Dashboard em Power BI – [link do repo]
-- Projetos em Python – [link do repo]
-- Projetos de Prompt Engineering – [Ver repositório](https://github.com/Markalvs/prompt-engineering)
-- Projetos em Excel – [Ver repositório](https://github.com/Markalvs/excel-projects)
-
