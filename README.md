@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu GitHub 👋
 
-Sou **Mark Vinícius Alves**, profissional com foco em **Dados, Business Intelligence, Automação e Inteligência Artificial**.
+Sou **Mark Vinícius Alves**, profissional com foco em **Análise de Dados e Business Intelligence**.
 
 Tenho experiência em coleta, tratamento e análise de dados, desenvolvimento de dashboards, automação de processos e acompanhamento de indicadores, transformando dados em informações estratégicas para tomada de decisão.
 
