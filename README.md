@@ -1,13 +1,12 @@
-# Olá, seja bem-vindo ao meu GitHub 👋
+# Hello, welcome to my GitHub 👋
 
-Sou **Mark Vinícius Alves**, profissional com foco em **Análise de Dados e Business Intelligence**.
+I'm **Mark Vinícius Alves**, a professional focused on **Data Analytics and Data Engineering**.
 
-Tenho experiência em coleta, tratamento e análise de dados, desenvolvimento de dashboards, automação de processos e acompanhamento de indicadores, transformando dados em informações estratégicas para tomada de decisão.
+I have experience in data collection, processing, and analysis, dashboard development, process automation, and KPI monitoring, transforming data into strategic insights for decision-making.
 
 ---
 
-
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
 <p>
 
